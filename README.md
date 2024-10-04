@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thotachandrasekhar1
 - ![](https://komarev.com/ghpvc/?username=your-github-Thotachandrasekhar1&color=brightgreen)
-- 👀 I’m interested in Data scientist
-- 🌱 I’m currently learning Deep  learning
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Gen AI 
 
 - 📫 How to reach me thotachandrashakar@gmail.com
 
